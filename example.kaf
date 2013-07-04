@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE KAF SYSTEM "D:\Progetti\Caper\FrancescoKAF\kaf-21.dtd">
+<KAF xml:lang="en" doc="doc/5913.htm">
+	<kafHeader>
+		<public uri="http://en.wikipedia.org/wiki/Computer_crime"/>
+		<linguisticProcessors layer="nlp">
+			<lp name="Syn ESG" version="2.1" timestamp="2013-01-26T04:30:03+00:00"/>
+		</linguisticProcessors>
+	</kafHeader>
+	<text>
+		<wf wid="w1" sent="1" page="1">Computer</wf>
+		<wf wid="w2" sent="1" page="1">crime</wf>
+		<wf wid="w3" sent="2" page="1">From</wf>
+		<wf wid="w4" sent="2" page="1">Wikipedia</wf>
+		<wf wid="w5" sent="2" page="1">,</wf>
+		<wf wid="w6" sent="2" page="1">the</wf>
+		<wf wid="w7" sent="2" page="1">free</wf>
+		<wf wid="w8" sent="2" page="1">encyclopedia</wf>
+		<wf wid="w9" sent="2" page="1">Jump</wf>
+		<wf wid="w10" sent="2" page="1">to</wf>
+		<wf wid="w11" sent="2" page="1">:</wf>
+		<wf wid="w12" sent="3" page="1">navigation</wf>
+		<wf wid="w13" sent="3" page="1">,</wf>
+		<wf wid="w14" sent="3" page="1">search</wf>
+		<wf wid="w15" sent="4" page="1">Computer</wf>
+		<wf wid="w16" sent="4" page="1">crime</wf>
+		<wf wid="w17" sent="4" page="1">refers</wf>
+		<wf wid="w18" sent="4" page="1">to</wf>
+		<wf wid="w19" sent="4" page="1">any</wf>
+		<wf wid="w20" sent="4" page="1">crime</wf>
+		<wf wid="w21" sent="4" page="1">that</wf>
+		<wf wid="w22" sent="4" page="1">involves</wf>
+		<wf wid="w23" sent="4" page="1">a</wf>
+		<wf wid="w24" sent="4" page="1">computer</wf>
+		<wf wid="w25" sent="4" page="1">and</wf>
+		<wf wid="w26" sent="4" page="1">a</wf>
+		<wf wid="w27" sent="4" page="1">network</wf>
+		<wf wid="w28" sent="4" page="1">.</wf>
+		<wf wid="w29" sent="5" page="1">[</wf>
+		<wf wid="w30" sent="5" page="1">1]</wf>
+		<wf wid="w31" sent="5" page="1">The</wf>
+		<wf wid="w32" sent="5" page="1">computer</wf>
+		<wf wid="w33" sent="5" page="1">may</wf>
+		<wf wid="w34" sent="5" page="1">have</wf>
+		<wf wid="w35" sent="5" page="1">been</wf>
+		<wf wid="w36" sent="5" page="1">used</wf>
+		<wf wid="w37" sent="5" page="1">in</wf>
+		<wf wid="w38" sent="5" page="1">the</wf>
+		<wf wid="w39" sent="5" page="1">commission</wf>
+		<wf wid="w40" sent="5" page="1">of</wf>
+		<wf wid="w41" sent="5" page="1">a</wf>
+		<wf wid="w42" sent="5" page="1">crime</wf>
+		<wf wid="w43" sent="5" page="1">,</wf>
+		<wf wid="w44" sent="5" page="1">or</wf>
+		<wf wid="w45" sent="5" page="1">it</wf>
+		<wf wid="w46" sent="5" page="1">may</wf>
+		<wf wid="w47" sent="5" page="1">be</wf>
+		<wf wid="w48" sent="5" page="1">the</wf>
+		<wf wid="w49" sent="5" page="1">target</wf>
+		<wf wid="w50" sent="5" page="1">.</wf>
+		<wf wid="w51" sent="6" page="1">[</wf>
+		<wf wid="w52" sent="6" page="1">2]</wf>
+		<wf wid="w53" sent="6" page="1">Netcrime</wf>
+		<wf wid="w54" sent="6" page="1">refers</wf>
+		<wf wid="w55" sent="6" page="1">to</wf>
+		<wf wid="w56" sent="6" page="1">criminal</wf>
+		<wf wid="w57" sent="6" page="1">exploitation</wf>
+		<wf wid="w58" sent="6" page="1">of</wf>
+		<wf wid="w59" sent="6" page="1">the</wf>
+		<wf wid="w60" sent="6" page="1">Internet</wf>
+		<wf wid="w61" sent="6" page="1">.</wf>
+		<wf wid="w62" sent="7" page="1">[</wf>
+		<wf wid="w63" sent="7" page="1">3]</wf>
+		<wf wid="w64" sent="7" page="1">Cybercrimes</wf>
+		<wf wid="w65" sent="7" page="1">are</wf>
+		<wf wid="w66" sent="7" page="1">defined</wf>
+		<wf wid="w67" sent="7" page="1">as</wf>
+		<wf wid="w68" sent="7" page="1">:</wf>
+		<wf wid="w69" sent="8" page="1">&quot;</wf>
+		<wf wid="w70" sent="8" page="1">Offences</wf>
+		<wf wid="w71" sent="8" page="1">that</wf>
+		<wf wid="w72" sent="8" page="1">are</wf>
+		<wf wid="w73" sent="8" page="1">committed</wf>
+		<wf wid="w74" sent="8" page="1">against</wf>
+		<wf wid="w75" sent="8" page="1">individuals</wf>
+		<wf wid="w76" sent="8" page="1">or</wf>
+		<wf wid="w77" sent="8" page="1">groups</wf>
+		<wf wid="w78" sent="8" page="1">of</wf>
+		<wf wid="w79" sent="8" page="1">individuals</wf>
+		<wf wid="w80" sent="8" page="1">with</wf>
+		<wf wid="w81" sent="8" page="1">a</wf>
+		<wf wid="w82" sent="8" page="1">criminal</wf>
+		<wf wid="w83" sent="8" page="1">motive</wf>
+		<wf wid="w84" sent="8" page="1">to</wf>
+		<wf wid="w85" sent="8" page="1">intentionally</wf>
+		<wf wid="w86" sent="8" page="1">harm</wf>
+		<wf wid="w87" sent="8" page="1">the</wf>
+		<wf wid="w88" sent="8" page="1">reputation</wf>
+		<wf wid="w89" sent="8" page="1">of</wf>
+		<wf wid="w90" sent="8" page="1">the</wf>
+		<wf wid="w91" sent="8" page="1">victim</wf>
+		<wf wid="w92" sent="8" page="1">or</wf>
+		<wf wid="w93" sent="8" page="1">cause</wf>
+		<wf wid="w94" sent="8" page="1">physical</wf>
+		<wf wid="w95" sent="8" page="1">or</wf>
+		<wf wid="w96" sent="8" page="1">mental</wf>
+		<wf wid="w97" sent="8" page="1">harm</wf>
+		<wf wid="w98" sent="8" page="1">to</wf>
+		<wf wid="w99" sent="8" page="1">the</wf>
+		<wf wid="w100" sent="8" page="1">victim</wf>
+	</text>
+	<terms>
+		<term tid="t1" type="open" lemma="computer" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w1"/>
+			</span>
+		</term>
+		<term tid="t2" type="open" lemma="crime" pos="N" morphofeat="cns__">
+			<sentiment resource="VUA_polarityLexicon_word" polarity="positive" strength="average" subjectivity="subjective" sentiment_semantic_type="behaviour/trait" sentiment_product_feature=""/>
+			<span>
+				<target id="w2"/>
+			</span>
+		</term>
+		<term tid="t3" type="close" lemma="from" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w3"/>
+			</span>
+		</term>
+		<term tid="t4" type="open" lemma="Wikipedia" pos="R" morphofeat="pns__">
+			<span>
+				<target id="w4"/>
+			</span>
+		</term>
+		<term tid="t5" type="close" lemma="the" pos="D" morphofeat="ins_">
+			<span>
+				<target id="w6"/>
+			</span>
+		</term>
+		<term tid="t6" type="open" lemma="free" pos="G" morphofeat="_-nn_">
+			<sentiment resource="VUA_polarityLexicon_word" polarity="positive" strength="average" subjectivity="subjective" sentiment_semantic_type="behaviour/trait" sentiment_product_feature=""/>
+			<span>
+				<target id="w7"/>
+			</span>
+		</term>
+		<term tid="t7" type="open" lemma="encyclopedia" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w8"/>
+			</span>
+		</term>
+		<term tid="t8" type="open" lemma="jump" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w9"/>
+			</span>
+		</term>
+		<term tid="t9" type="close" lemma="to" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w10"/>
+			</span>
+		</term>
+		<term tid="t10" type="open" lemma="navigation" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w12"/>
+			</span>
+		</term>
+		<term tid="t11" type="open" lemma="search" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w14"/>
+			</span>
+		</term>
+		<term tid="t12" type="open" lemma="computer" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w15"/>
+			</span>
+		</term>
+		<term tid="t13" type="open" lemma="crime" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w16"/>
+			</span>
+		</term>
+		<term tid="t14" type="open" lemma="refer" pos="V" morphofeat="_ip3sn-">
+			<span>
+				<target id="w17"/>
+			</span>
+		</term>
+		<term tid="t15" type="close" lemma="to" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w18"/>
+			</span>
+		</term>
+		<term tid="t16" type="open" lemma="any" pos="G" morphofeat="_-ns_">
+			<span>
+				<target id="w19"/>
+			</span>
+		</term>
+		<term tid="t17" type="open" lemma="crime" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w20"/>
+			</span>
+		</term>
+		<term tid="t18" type="open" lemma="that" pos="O" morphofeat="">
+			<span>
+				<target id="w21"/>
+			</span>
+		</term>
+		<term tid="t19" type="open" lemma="involve" pos="V" morphofeat="_ip3sn-">
+			<span>
+				<target id="w22"/>
+			</span>
+		</term>
+		<term tid="t20" type="open" lemma="a" pos="G" morphofeat="_-ns_">
+			<span>
+				<target id="w23"/>
+			</span>
+		</term>
+		<term tid="t21" type="open" lemma="computer" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w24"/>
+			</span>
+		</term>
+		<term tid="t22" type="close" lemma="and" pos="C" morphofeat="c__">
+			<span>
+				<target id="w25"/>
+			</span>
+		</term>
+		<term tid="t23" type="open" lemma="a" pos="G" morphofeat="_-ns_">
+			<span>
+				<target id="w26"/>
+			</span>
+		</term>
+		<term tid="t24" type="open" lemma="network" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w27"/>
+			</span>
+		</term>
+		<term tid="t25" type="open" lemma="1]" pos="O.Z" morphofeat="cnn__">
+			<span>
+				<target id="w30"/>
+			</span>
+		</term>
+		<term tid="t26" type="close" lemma="the" pos="D" morphofeat="ins_">
+			<span>
+				<target id="w31"/>
+			</span>
+		</term>
+		<term tid="t27" type="open" lemma="computer" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w32"/>
+			</span>
+		</term>
+		<term tid="t28" type="open" lemma="may" pos="V" morphofeat="_----n-">
+			<span>
+				<target id="w33"/>
+			</span>
+		</term>
+		<term tid="t29" type="open" lemma="have" pos="V" morphofeat="_----n-">
+			<span>
+				<target id="w34"/>
+			</span>
+		</term>
+		<term tid="t30" type="open" lemma="be" pos="V" morphofeat="_----n-">
+			<span>
+				<target id="w35"/>
+			</span>
+		</term>
+		<term tid="t31" type="open" lemma="use" pos="V" morphofeat="_----n-">
+			<span>
+				<target id="w36"/>
+			</span>
+		</term>
+		<term tid="t32" type="close" lemma="in" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w37"/>
+			</span>
+		</term>
+		<term tid="t33" type="close" lemma="the" pos="D" morphofeat="ins_">
+			<span>
+				<target id="w38"/>
+			</span>
+		</term>
+		<term tid="t34" type="open" lemma="commission" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w39"/>
+			</span>
+		</term>
+		<term tid="t35" type="close" lemma="of" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w40"/>
+			</span>
+		</term>
+		<term tid="t36" type="open" lemma="a" pos="G" morphofeat="_-ns_">
+			<span>
+				<target id="w41"/>
+			</span>
+		</term>
+		<term tid="t37" type="open" lemma="crime" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w42"/>
+			</span>
+		</term>
+		<term tid="t38" type="close" lemma="or" pos="C" morphofeat="c__">
+			<span>
+				<target id="w44"/>
+			</span>
+		</term>
+		<term tid="t39" type="open" lemma="it" pos="O" morphofeat="">
+			<span>
+				<target id="w45"/>
+			</span>
+		</term>
+		<term tid="t40" type="open" lemma="may" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w46"/>
+			</span>
+		</term>
+		<term tid="t41" type="open" lemma="be" pos="V" morphofeat="_ip-sn-">
+			<span>
+				<target id="w47"/>
+			</span>
+		</term>
+		<term tid="t42" type="close" lemma="the" pos="D" morphofeat="ins_">
+			<span>
+				<target id="w48"/>
+			</span>
+		</term>
+		<term tid="t43" type="open" lemma="target" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w49"/>
+			</span>
+		</term>
+		<term tid="t44" type="open" lemma="2]" pos="O.Z" morphofeat="cnn__">
+			<span>
+				<target id="w52"/>
+			</span>
+		</term>
+		<term tid="t45" type="open" lemma="Netcrime" pos="O" morphofeat="">
+			<span>
+				<target id="w53"/>
+			</span>
+		</term>
+		<term tid="t46" type="open" lemma="refer" pos="V" morphofeat="_ip3sn-">
+			<span>
+				<target id="w54"/>
+			</span>
+		</term>
+		<term tid="t47" type="close" lemma="to" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w55"/>
+			</span>
+		</term>
+		<term tid="t48" type="open" lemma="criminal" pos="G" morphofeat="_-nn_">
+			<span>
+				<target id="w56"/>
+			</span>
+		</term>
+		<term tid="t49" type="open" lemma="exploitation" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w57"/>
+			</span>
+		</term>
+		<term tid="t50" type="close" lemma="of" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w58"/>
+			</span>
+		</term>
+		<term tid="t51" type="open" lemma="the_internet" pos="R" morphofeat="pns__">
+			<span>
+				<target id="w59"/>
+				<target id="w60"/>
+			</span>
+		</term>
+		<term tid="t52" type="open" lemma="3]" pos="O.Z" morphofeat="cnn__">
+			<span>
+				<target id="w63"/>
+			</span>
+		</term>
+		<term tid="t53" type="open" lemma="cybercrimes" pos="O" morphofeat="">
+			<span>
+				<target id="w64"/>
+			</span>
+		</term>
+		<term tid="t54" type="open" lemma="be" pos="V" morphofeat="_ip-pn-">
+			<span>
+				<target id="w65"/>
+			</span>
+		</term>
+		<term tid="t55" type="open" lemma="define" pos="V" morphofeat="_---pn-">
+			<span>
+				<target id="w66"/>
+			</span>
+		</term>
+		<term tid="t56" type="close" lemma="as" pos="C" morphofeat="p__">
+			<span>
+				<target id="w67"/>
+			</span>
+		</term>
+		<term tid="t57" type="open" lemma="offence" pos="N" morphofeat="cnp__">
+			<span>
+				<target id="w70"/>
+			</span>
+		</term>
+		<term tid="t58" type="open" lemma="that" pos="O" morphofeat="">
+			<span>
+				<target id="w71"/>
+			</span>
+		</term>
+		<term tid="t59" type="open" lemma="be" pos="V" morphofeat="_ip-pn-">
+			<span>
+				<target id="w72"/>
+			</span>
+		</term>
+		<term tid="t60" type="open" lemma="commit" pos="V" morphofeat="_---pn-">
+			<span>
+				<target id="w73"/>
+			</span>
+		</term>
+		<term tid="t61" type="close" lemma="against" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w74"/>
+			</span>
+		</term>
+		<term tid="t62" type="open" lemma="individual" pos="N" morphofeat="cnp__">
+			<span>
+				<target id="w75"/>
+			</span>
+		</term>
+		<term tid="t63" type="close" lemma="or" pos="C" morphofeat="c__">
+			<span>
+				<target id="w76"/>
+			</span>
+		</term>
+		<term tid="t64" type="open" lemma="group" pos="N" morphofeat="cnp__">
+			<span>
+				<target id="w77"/>
+			</span>
+		</term>
+		<term tid="t65" type="close" lemma="of" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w78"/>
+			</span>
+		</term>
+		<term tid="t66" type="open" lemma="individual" pos="N" morphofeat="cnp__">
+			<span>
+				<target id="w79"/>
+			</span>
+		</term>
+		<term tid="t67" type="close" lemma="with" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w80"/>
+			</span>
+		</term>
+		<term tid="t68" type="open" lemma="a" pos="G" morphofeat="_-ns_">
+			<span>
+				<target id="w81"/>
+			</span>
+		</term>
+		<term tid="t69" type="open" lemma="criminal" pos="G" morphofeat="_-nn_">
+			<span>
+				<target id="w82"/>
+			</span>
+		</term>
+		<term tid="t70" type="open" lemma="motive" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w83"/>
+			</span>
+		</term>
+		<term tid="t71" type="close" lemma="to" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w84"/>
+			</span>
+		</term>
+		<term tid="t72" type="open" lemma="intentionally" pos="A" morphofeat="_-__">
+			<span>
+				<target id="w85"/>
+			</span>
+		</term>
+		<term tid="t73" type="open" lemma="harm" pos="V" morphofeat="_np--n-">
+			<span>
+				<target id="w86"/>
+			</span>
+		</term>
+		<term tid="t74" type="close" lemma="the" pos="D" morphofeat="ins_">
+			<span>
+				<target id="w87"/>
+			</span>
+		</term>
+		<term tid="t75" type="open" lemma="reputation" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w88"/>
+			</span>
+		</term>
+		<term tid="t76" type="close" lemma="of" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w89"/>
+			</span>
+		</term>
+		<term tid="t77" type="close" lemma="the" pos="D" morphofeat="ins_">
+			<span>
+				<target id="w90"/>
+			</span>
+		</term>
+		<term tid="t78" type="open" lemma="victim" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w91"/>
+			</span>
+		</term>
+		<term tid="t79" type="close" lemma="or" pos="C" morphofeat="c__">
+			<span>
+				<target id="w92"/>
+			</span>
+		</term>
+		<term tid="t80" type="open" lemma="cause" pos="V" morphofeat="_np--n-">
+			<span>
+				<target id="w93"/>
+			</span>
+		</term>
+		<term tid="t81" type="open" lemma="physical" pos="G" morphofeat="_-nn_">
+			<span>
+				<target id="w94"/>
+			</span>
+		</term>
+		<term tid="t82" type="close" lemma="or" pos="C" morphofeat="c__">
+			<span>
+				<target id="w95"/>
+			</span>
+		</term>
+		<term tid="t83" type="open" lemma="mental" pos="G" morphofeat="_-nn_">
+			<span>
+				<target id="w96"/>
+			</span>
+		</term>
+		<term tid="t84" type="open" lemma="harm" pos="N" morphofeat="cns__">
+			<span>
+				<target id="w97"/>
+			</span>
+		</term>
+		<term tid="t85" type="close" lemma="to" pos="P" morphofeat="p_n-">
+			<span>
+				<target id="w98"/>
+			</span>
+		</term>
+		<term tid="t86" type="close" lemma="the" pos="D" morphofeat="ins_">
+			<span>
+				<target id="w99"/>
+			</span>
+		</term>		
+	</terms>
+	<deps>
+		<dep from="t2" to="t1" rfunc="mod"/>
+		<dep from="t8" to="t5" rfunc="mod"/>
+		<dep from="t8" to="t6" rfunc="mod"/>
+		<dep from="t8" to="t7" rfunc="mod"/>
+		<dep from="t13" to="t14" rfunc="subj"/>
+		<dep from="t13" to="t12" rfunc="mod"/>
+		<dep from="t17" to="t16" rfunc="mod"/>
+		<dep from="t17" to="t19" rfunc="subj"/>
+		<dep from="t17" to="t21" rfunc="mod"/>
+		<dep from="t21" to="t20" rfunc="mod"/>
+		<dep from="t17" to="t24" rfunc="mod"/>
+		<dep from="t24" to="t23" rfunc="mod"/>
+		<dep from="t31" to="t27" rfunc="dobj"/>
+		<dep from="t27" to="t26" rfunc="mod"/>
+		<dep from="t34" to="t33" rfunc="mod"/>
+		<dep from="t37" to="t36" rfunc="mod"/>
+		<dep from="t39" to="t43" rfunc="mod"/>
+		<dep from="t43" to="t42" rfunc="mod"/>
+		<dep from="t45" to="t46" rfunc="subj"/>
+		<dep from="t49" to="t48" rfunc="mod"/>
+		<dep from="t53" to="t55" rfunc="dobj"/>
+		<dep from="t60" to="t57" rfunc="dobj"/>
+		<dep from="t57" to="t62" rfunc="mod"/>
+		<dep from="t57" to="t64" rfunc="mod"/>
+		<dep from="t70" to="t68" rfunc="mod"/>
+		<dep from="t70" to="t69" rfunc="mod"/>
+		<dep from="t73" to="t72" rfunc="how"/>
+		<dep from="t73" to="t75" rfunc="dobj"/>
+		<dep from="t75" to="t74" rfunc="mod"/>
+		<dep from="t78" to="t77" rfunc="mod"/>
+	</deps>
+	<chunks>
+		<chunk cid="c1" head="t2" phrase="NP">
+			<span>
+				<target id="t1"/>
+				<target id="t2"/>
+			</span>
+		</chunk>
+		<chunk cid="c3" head="t4" phrase="NP">
+			<span>
+				<target id="t4"/>
+			</span>
+		</chunk>
+		<chunk cid="c4" head="t5" phrase="NP">
+			<span>
+				<target id="t5"/>
+			</span>
+		</chunk>
+		<chunk cid="c5" head="t8" phrase="NP">
+			<span>
+				<target id="t6"/>
+				<target id="t7"/>
+				<target id="t8"/>
+			</span>
+		</chunk>
+		<chunk cid="c7" head="t10" phrase="NP">
+			<span>
+				<target id="t10"/>
+			</span>
+		</chunk>
+		<chunk cid="c8" head="t11" phrase="NP">
+			<span>
+				<target id="t11"/>
+			</span>
+		</chunk>
+		<chunk cid="c9" head="t13" phrase="NP">
+			<span>
+				<target id="t12"/>
+				<target id="t13"/>
+			</span>
+		</chunk>
+		<chunk cid="c10" head="t14" phrase="VP">
+			<span>
+				<target id="t14"/>
+			</span>
+		</chunk>
+		<chunk cid="c12" head="t16" phrase="NP">
+			<span>
+				<target id="t16"/>
+			</span>
+		</chunk>
+		<chunk cid="c13" head="t17" phrase="NP">
+			<span>
+				<target id="t17"/>
+			</span>
+		</chunk>
+		<chunk cid="c14" head="t18" phrase="NP">
+			<span>
+				<target id="t18"/>
+			</span>
+		</chunk>
+		<chunk cid="c15" head="t19" phrase="VP">
+			<span>
+				<target id="t19"/>
+			</span>
+		</chunk>
+		<chunk cid="c16" head="t20" phrase="NP">
+			<span>
+				<target id="t20"/>
+			</span>
+		</chunk>
+		<chunk cid="c17" head="t21" phrase="NP">
+			<span>
+				<target id="t21"/>
+			</span>
+		</chunk>
+		<chunk cid="c19" head="t23" phrase="NP">
+			<span>
+				<target id="t23"/>
+			</span>
+		</chunk>
+		<chunk cid="c20" head="t24" phrase="NP">
+			<span>
+				<target id="t24"/>
+			</span>
+		</chunk>
+		<chunk cid="c21" head="t25" phrase="NP">
+			<span>
+				<target id="t25"/>
+			</span>
+		</chunk>
+		<chunk cid="c22" head="t26" phrase="NP">
+			<span>
+				<target id="t26"/>
+			</span>
+		</chunk>
+		<chunk cid="c23" head="t27" phrase="NP">
+			<span>
+				<target id="t27"/>
+			</span>
+		</chunk>
+		<chunk cid="c24" head="t28" phrase="VP">
+			<span>
+				<target id="t28"/>
+			</span>
+		</chunk>
+		<chunk cid="c25" head="t29" phrase="VP">
+			<span>
+				<target id="t29"/>
+			</span>
+		</chunk>
+		<chunk cid="c26" head="t30" phrase="VP">
+			<span>
+				<target id="t30"/>
+			</span>
+		</chunk>
+		<chunk cid="c27" head="t31" phrase="VP">
+			<span>
+				<target id="t31"/>
+			</span>
+		</chunk>
+		<chunk cid="c29" head="t33" phrase="NP">
+			<span>
+				<target id="t33"/>
+			</span>
+		</chunk>
+		<chunk cid="c30" head="t34" phrase="NP">
+			<span>
+				<target id="t34"/>
+			</span>
+		</chunk>
+		<chunk cid="c32" head="t36" phrase="NP">
+			<span>
+				<target id="t36"/>
+			</span>
+		</chunk>
+		<chunk cid="c33" head="t37" phrase="NP">
+			<span>
+				<target id="t37"/>
+			</span>
+		</chunk>
+		<chunk cid="c35" head="t39" phrase="NP">
+			<span>
+				<target id="t39"/>
+			</span>
+		</chunk>
+		<chunk cid="c36" head="t40" phrase="NP">
+			<span>
+				<target id="t40"/>
+			</span>
+		</chunk>
+		<chunk cid="c37" head="t41" phrase="VP">
+			<span>
+				<target id="t41"/>
+			</span>
+		</chunk>
+		<chunk cid="c38" head="t42" phrase="NP">
+			<span>
+				<target id="t42"/>
+			</span>
+		</chunk>
+		<chunk cid="c39" head="t43" phrase="NP">
+			<span>
+				<target id="t43"/>
+			</span>
+		</chunk>
+		<chunk cid="c40" head="t44" phrase="NP">
+			<span>
+				<target id="t44"/>
+			</span>
+		</chunk>
+		<chunk cid="c42" head="t46" phrase="VP">
+			<span>
+				<target id="t46"/>
+			</span>
+		</chunk>
+		<chunk cid="c44" head="t49" phrase="NP">
+			<span>
+				<target id="t48"/>
+				<target id="t49"/>
+			</span>
+		</chunk>
+		<chunk cid="c46" head="t51" phrase="NP">
+			<span>
+				<target id="t51"/>
+			</span>
+		</chunk>
+		<chunk cid="c47" head="t52" phrase="NP">
+			<span>
+				<target id="t52"/>
+			</span>
+		</chunk>
+		<chunk cid="c49" head="t54" phrase="VP">
+			<span>
+				<target id="t54"/>
+			</span>
+		</chunk>
+		<chunk cid="c50" head="t55" phrase="VP">
+			<span>
+				<target id="t55"/>
+			</span>
+		</chunk>
+		<chunk cid="c52" head="t57" phrase="NP">
+			<span>
+				<target id="t57"/>
+			</span>
+		</chunk>
+		<chunk cid="c53" head="t58" phrase="NP">
+			<span>
+				<target id="t58"/>
+			</span>
+		</chunk>
+		<chunk cid="c54" head="t59" phrase="VP">
+			<span>
+				<target id="t59"/>
+			</span>
+		</chunk>
+		<chunk cid="c55" head="t60" phrase="VP">
+			<span>
+				<target id="t60"/>
+			</span>
+		</chunk>
+		<chunk cid="c57" head="t62" phrase="NP">
+			<span>
+				<target id="t62"/>
+			</span>
+		</chunk>
+		<chunk cid="c59" head="t64" phrase="NP">
+			<span>
+				<target id="t64"/>
+				<target id="t65"/>
+				<target id="t66"/>
+			</span>
+		</chunk>
+		<chunk cid="c61" head="t68" phrase="NP">
+			<span>
+				<target id="t68"/>
+			</span>
+		</chunk>
+		<chunk cid="c62" head="t69" phrase="NP">
+			<span>
+				<target id="t69"/>
+			</span>
+		</chunk>
+		<chunk cid="c63" head="t70" phrase="NP">
+			<span>
+				<target id="t70"/>
+			</span>
+		</chunk>
+		<chunk cid="c65" head="t72" phrase="ADV">
+			<span>
+				<target id="t72"/>
+			</span>
+		</chunk>
+		<chunk cid="c66" head="t73" phrase="VP">
+			<span>
+				<target id="t73"/>
+			</span>
+		</chunk>
+		<chunk cid="c67" head="t74" phrase="NP">
+			<span>
+				<target id="t74"/>
+			</span>
+		</chunk>
+		<chunk cid="c68" head="t75" phrase="NP">
+			<span>
+				<target id="t75"/>
+			</span>
+		</chunk>
+		<chunk cid="c70" head="t77" phrase="NP">
+			<span>
+				<target id="t77"/>
+			</span>
+		</chunk>
+		<chunk cid="c71" head="t78" phrase="NP">
+			<span>
+				<target id="t78"/>
+			</span>
+		</chunk>
+		<chunk cid="c73" head="t80" phrase="VP">
+			<span>
+				<target id="t80"/>
+			</span>
+		</chunk>
+		<chunk cid="c74" head="t81" phrase="NP">
+			<span>
+				<target id="t81"/>
+			</span>
+		</chunk>
+		<chunk cid="c76" head="t83" phrase="NP">
+			<span>
+				<target id="t83"/>
+			</span>
+		</chunk>
+		<chunk cid="c77" head="t84" phrase="NP">
+			<span>
+				<target id="t84"/>
+			</span>
+		</chunk>
+		<chunk cid="c79" head="t86" phrase="NP">
+			<span>
+				<target id="t86"/>
+			</span>
+		</chunk>	
+	</chunks>
+	<entities>
+		<entity eid="e1" type="person">
+			<references>
+				<span>
+					<target id="t62"/>
+				</span>
+				<span>
+					<target id="t66"/>
+				</span>
+			</references>
+		</entity>
+		<entity eid="e2" type="person">
+			<references>
+				<span>
+					<target id="t78"/>
+				</span>
+			</references>
+		</entity>
+	</entities>
+	<coreferences>
+		<coref coid="co1">
+			<references>
+				<span>
+					<target id="t2"/>
+				</span>
+				<span>
+					<target id="t5"/>
+					<target id="t10"/>
+				</span>
+				<span>
+					<target id="t2"/>
+					<target id="t9"/>
+				</span>
+			</references>
+		</coref>
+		<coref coid="c2">
+			<references>
+				<span>
+					<target id="t2"/>
+				</span>
+				<span>
+					<target id="t5"/>
+					<target id="t10"/>
+				</span>
+				<span>
+					<target id="t2"/>
+					<target id="t9"/>
+				</span>
+			</references>
+		</coref>
+	</coreferences>
+	<features>
+		<properties>
+			<property fpid="p1" lemma="customer services">
+				<references>
+					<span>
+						<target id="t58"/>
+						<target id="t59"/>
+					</span>
+				</references>
+			</property>
+			<property fpid="p2" lemma="rate">
+				<references>
+					<span>
+						<target id="t63"/>
+					</span>
+				</references>
+			</property>
+			<property fpid="p3" lemma="location">
+				<references>
+					<span>
+						<target id="t34"/>
+					</span>
+				</references>
+			</property>
+		</properties>
+		<categories>
+			<category fcid="fc1" lemma="room">
+				<references>
+					<span>
+						<target id="t39"/>
+					</span>
+					<span>
+						<target id="t49"/>
+					</span>
+				</references>
+			</category>
+			<category fcid="fc2" lemma="internet">
+				<references>
+					<span>
+						<target id="t74"/>
+					</span>
+				</references>
+			</category>
+			<category fcid="fc3" lemma="breakfast">
+				<references>
+					<span>
+						<target id="t79"/>
+					</span>
+				</references>
+			</category>
+		</categories>
+	</features>
+	<relations>
+		<relation rid="r1" from="e1" to="e2" confidence="100%"/>
+	</relations>
+	<opinions>
+		<opinion oid="o1">
+			<opinion_holder>
+				<span>
+					<target id="t1" head="yes"/>
+				</span>
+			</opinion_holder>
+			<opinion_target>
+				<span>
+					<target id="t6"/>
+					<target id="t7"/>
+					<target id="t8"/>
+				</span>
+			</opinion_target>
+			<opinion_expression polarity="negative" strength="strong" subjectivity="subjectivity" sentiment_semantic_type="evaluation" sentiment_product_feature="">
+				<span>
+					<target id="t3"/>
+					<target id="t4"/>
+				</span>
+			</opinion_expression>
+		</opinion>
+		<opinion oid="o2">
+			<opinion_holder>
+				<span>
+					<target id="t1"/>
+				</span>
+			</opinion_holder>
+			<opinion_target>
+				<span>
+					<target id="t6"/>
+				</span>
+			</opinion_target>
+			<opinion_expression polarity="negative" strength="strong" subjectivity="subjectivity" sentiment_semantic_type="evaluation" sentiment_product_feature="">
+				<span>
+					<target id="t3"/>
+					<target id="t4"/>
+				</span>
+			</opinion_expression>
+		</opinion>
+	</opinions>
+</KAF>
